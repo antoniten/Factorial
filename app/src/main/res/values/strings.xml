@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Comparator</string>
+    <string-array name="pupils">
+        <item>10, Maxim</item>
+        <item>14, Max</item>
+        <item>45, Maximov</item>
+        <item>21, Maximushka</item>
+        <item>36, Maximilyan</item>
+        <item>74, Sidor</item>
+        <item>12, Ilya</item>
+    </string-array>
+</resources>
